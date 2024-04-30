@@ -1,6 +1,4 @@
 # Fuma
-CODE: Alright, let's create a simple game using Vue 3 and Tailwind CSS. Here's the starting code:
-
 ```scss
 <!-- app.scss -->
 @import 'tailwindcss/theme';
